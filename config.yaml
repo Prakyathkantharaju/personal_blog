@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hi, Hello, Nameste! 
-    subtitle: "I am a robotictist, programmer, data scientist, LLM engineer and a thinker."
+    subtitle: "I am a robotictist, programmer, data scientist, LLM engineer and a coffee lover."
     imageUrl: portfolio_2.webp
     imageWidth: 480
     imageHeight: 480
