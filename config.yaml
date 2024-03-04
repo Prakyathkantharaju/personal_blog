@@ -85,6 +85,8 @@ params:
       url: "https://x.com/prakyath_k"
     - name: github
       url: "https://github.com/prakyathkantharaju"
+    - name: scholar
+      url: "https://scholar.google.com/citations?user=SWs6f8EAAAAJ&hl=en"
 
   analytics:
     google:
