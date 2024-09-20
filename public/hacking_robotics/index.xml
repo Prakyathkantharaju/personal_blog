@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hacking_robotics on Pk blog</title>
+    <link>http://localhost:1313/hacking_robotics/</link>
+    <description>Recent content in Hacking_robotics on Pk blog</description>
+    <image>
+      <title>Pk blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2023 18:49:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hacking_robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drake setup and introduction to IK using pseudo inverse and quadratic programming</title>
+      <link>http://localhost:1313/hacking_robotics/drake_introduction/</link>
+      <pubDate>Sun, 15 Oct 2023 18:49:58 -0500</pubDate>
+      <guid>http://localhost:1313/hacking_robotics/drake_introduction/</guid>
+      <description>Introduction to Drake Drake is a C++ toolbox started by Russ Tedrake and his group at MIT. It is a collection of libraries for efficient rigid body dynamics computations and constraint-based multibody dynamics, mainly used for manipulation planning and control.
+Setup for manipulation In this project I am borrowing most of the work from the Drake manipulation repository, which is used to teach the manipulators course at MIT. Here are the course documents: manipulation and Manipulation youtube playlist from last semester.</description>
+    </item>
+  </channel>
+</rss>
