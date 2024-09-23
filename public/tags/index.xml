@@ -77,10 +77,31 @@
       <description></description>
     </item>
     <item>
-      <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
+      <title>AI - Newsletter</title>
+      <link>http://localhost:1313/tags/ai---newsletter/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
+      <guid>http://localhost:1313/tags/ai---newsletter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JAX</title>
+      <link>http://localhost:1313/tags/jax/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/tags/jax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pytorch</title>
+      <link>http://localhost:1313/tags/pytorch/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vmap</title>
+      <link>http://localhost:1313/tags/vmap/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vmap/</guid>
       <description></description>
     </item>
   </channel>

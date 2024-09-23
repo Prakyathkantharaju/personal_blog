@@ -76,6 +76,8 @@ params:
         url: tags
       - name: Weekly Newsletter
         url: weekly_newsletter/
+      - name: Deep Dive
+        url: deep_dive
 
   # home-info mode
   homeInfoParams:

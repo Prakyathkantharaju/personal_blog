@@ -3,10 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-20T12:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/weeklynewsletter/</loc>
-    <lastmod>2024-09-20T12:00:00-05:00</lastmod>
+    <lastmod>2024-03-03T12:04:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/project/</loc>
     <lastmod>2024-03-03T12:04:00-06:00</lastmod>
@@ -58,6 +55,30 @@
   </url><url>
     <loc>http://localhost:1313/tags/robotics/</loc>
     <lastmod>2023-10-15T18:49:58-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai---newsletter/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/deep_dive/torch_vmap_comparision/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/deep_dive/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jax/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pytorch/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vmap/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weekly_newsletter/sept-20/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weekly_newsletter/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
