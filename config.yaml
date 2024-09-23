@@ -59,9 +59,10 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Hi, Hello, Nameste! 
-    subtitle: "I am a robotictist, programmer, data scientist, LLM engineer and a coffee lover."
+    title: Hello! 
+    subtitle: "I am a robotictist, programmer, data scientist, LLM engineer and a coffee lover. I have a PhD in Robotics and AI. My past experience spans across robotics, AI, and now LLMs and multi-modal models."
     imageUrl: portfolio_2.webp
+    imageUrl: IMG_0359_1.jpg
     imageWidth: 480
     imageHeight: 480
     imageTitle: my image
@@ -69,7 +70,7 @@ params:
       - name: Hacking robotics (blog)
         url: hacking_robotics/
       - name: Project
-        url: projects
+        url: projects 
       - name: About
         url: about
       - name: Tags
