@@ -54,6 +54,8 @@ Each benchmarking will be running for 1000 iterations. During each function call
 
 Note: I am using warm start for the jitted JAX function comparison since the first function call for JAX is always slower due to compilation. If you feel this is unfair, please feel free to remove the warmup flag in the comparison function and run the code again to compare the results.
 
+Note: I have also implemented the array storing version of the Jax but the results are sustainably slower compared ot the vmap and the jitted version, so I have not presented the results here. One reason for this could be the `.set` operation to place the value in memory, which different from pytorch's lazy indexing. More on this in later deep dives. 
+
 ## CPU
 
 For the dot product operation, I am comparing the PyTorch dot product with a for loop as suggested in the slides and the vmap version. For the JAX version, I am comparing the vmap version and the jit version of the dot product. For the attention operation, I have simplified and compared the vmap version and the jit + vmap version of the attention operation. In the future, I will also compare other implementations of JAX and PyTorch and complex operations such as model loading and switching between CPU and GPU etc.
