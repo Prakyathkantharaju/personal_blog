@@ -66,9 +66,9 @@ editPost:
   - Tight on-device collaborations with Qualcomm, Mediatek, and Arm
   - [MMMU Benchmark Leaderboard](https://mmmu-benchmark.github.io/#leaderboard)
 
-![Llama 3.2 Benchmark 1](sep_27/Pasted%20image%2020240927101929.png)
+![Llama 3.2 Benchmark 1](/sept_27/Pasted%20image%2020240927101929.png)
 
-![Llama 3.2 Benchmark 2](sep_27/Pasted%20image%2020240927101947.png)
+![Llama 3.2 Benchmark 2](/sept_27/Pasted%20image%2020240927101947.png)
 
 ### Molmo Models by AI2
 
@@ -80,7 +80,7 @@ editPost:
 - [Molmo Models on Hugging Face](https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19)
 - [Molmo Paper](https://arxiv.org/pdf/2409.17146)
 ### Molmo comparison
-![Molmo Comparison](sep_27/Pasted%20image%2020240927101904.png)
+![Molmo Comparison](/sept_27/Pasted%20image%2020240927101904.png)
 
 ### PixMo Dataset
 
@@ -101,7 +101,7 @@ editPost:
 - [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat?model=gemini-1.5-pro-002)
 - [Gemini API Documentation](https://ai.google.dev/gemini-api/docs/models/gemini)
 This is how cost vs intelligent stands:
-![Gemini Cost vs Intelligence](sep_27/Pasted%20image%2020240927094928.png)
+![Gemini Cost vs Intelligence](/sept_27/Pasted%20image%2020240927094928.png)
 ### AlphaChip
 
 - Google's AI method for designing chip layouts
