@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pytorch on Pk blog</title>
-    <link>http://localhost:1313/tags/pytorch/</link>
-    <description>Recent content in Pytorch on Pk blog</description>
+    <title>pytorch on Pk blog</title>
+    <link>https://prakyathk.com/tags/pytorch/</link>
+    <description>Recent content in pytorch on Pk blog</description>
     <image>
       <title>Pk blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://prakyathk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://prakyathk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://prakyathk.com/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Dive: PyTorch vmap vs JAX vmap - Part 1</title>
-      <link>http://localhost:1313/deep_dive/torch_vmap_comparision/</link>
+      <link>https://prakyathk.com/deep_dive/torch_vmap_comparision/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/deep_dive/torch_vmap_comparision/</guid>
+      <guid>https://prakyathk.com/deep_dive/torch_vmap_comparision/</guid>
       <description>Comparing the memory and speed of PyTorch vmap and JAX vmap for dot product and attention calculation </description>
     </item>
   </channel>

@@ -2,84 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://prakyathk.com/</loc>
     <lastmod>2024-03-03T12:04:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/project/</loc>
+    <loc>https://prakyathk.com/tags/project/</loc>
     <lastmod>2024-03-03T12:04:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://prakyathk.com/projects/</loc>
     <lastmod>2024-03-03T12:04:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://prakyathk.com/tags/</loc>
     <lastmod>2024-03-03T12:04:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/testing/</loc>
-    <lastmod>2024-03-03T12:04:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-03T12:04:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://prakyathk.com/about/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://prakyathk.com/tags/about/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/drake/</loc>
+    <loc>https://prakyathk.com/tags/drake/</loc>
     <lastmod>2023-10-15T18:49:58-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hacking_robotics/drake_introduction/</loc>
+    <loc>https://prakyathk.com/hacking_robotics/drake_introduction/</loc>
     <lastmod>2023-10-15T18:49:58-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hacking_robotics/</loc>
+    <loc>https://prakyathk.com/hacking_robotics/</loc>
     <lastmod>2023-10-15T18:49:58-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/introduction/</loc>
+    <loc>https://prakyathk.com/tags/introduction/</loc>
     <lastmod>2023-10-15T18:49:58-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/manipulation/</loc>
+    <loc>https://prakyathk.com/tags/manipulation/</loc>
     <lastmod>2023-10-15T18:49:58-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/robotics/</loc>
+    <loc>https://prakyathk.com/tags/robotics/</loc>
     <lastmod>2023-10-15T18:49:58-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai---newsletter/</loc>
+    <loc>https://prakyathk.com/tags/ai-newsletter/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/deep_dive/torch_vmap_comparision/</loc>
+    <loc>https://prakyathk.com/weekly_newsletter/sep_27/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/deep_dive/</loc>
+    <loc>https://prakyathk.com/deep_dive/torch_vmap_comparision/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jax/</loc>
+    <loc>https://prakyathk.com/deep_dive/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pytorch/</loc>
+    <loc>https://prakyathk.com/tags/jax/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vmap/</loc>
+    <loc>https://prakyathk.com/tags/pytorch/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/weekly_newsletter/sept-20/</loc>
+    <loc>https://prakyathk.com/tags/vmap/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/weekly_newsletter/</loc>
+    <loc>https://prakyathk.com/weekly_newsletter/sept-20/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://prakyathk.com/tags/weekly_newsletter/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://prakyathk.com/weekly_newsletter/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://prakyathk.com/categories/</loc>
   </url>
 </urlset>

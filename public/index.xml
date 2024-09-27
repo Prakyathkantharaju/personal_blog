@@ -2,69 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pk blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://prakyathk.com/</link>
     <description>Recent content on Pk blog</description>
     <image>
       <title>Pk blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://prakyathk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://prakyathk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 03 Mar 2024 12:04:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://prakyathk.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://prakyathk.com/projects/</link>
       <pubDate>Sun, 03 Mar 2024 12:04:00 -0600</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://prakyathk.com/projects/</guid>
       <description>Here are some of the projects I&amp;rsquo;ve worked on:
 1. Insura-tune Anything ( private project for CCC is) Description: An internal enterprise application designed for loading insurance documentation and images from structured and unstructured databases (SQL, MongoDB, sqlite) for fine-tuning using LORA and RLHF.
 2. Fine-tune Anything Description: Developed a quantization and fine-tuning library with auto-loading, quantize model, and fine-tuning for personal data and RLHF. Try it here
 3. Lead the Way Description: Created a distributed knowledge-sharing system for mobile autonomous robot navigation using graph-neural networks and ROS.</description>
     </item>
     <item>
-      <title>Testing</title>
-      <link>http://localhost:1313/posts/</link>
-      <pubDate>Sun, 03 Mar 2024 12:04:00 -0600</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://prakyathk.com/about/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://prakyathk.com/about/</guid>
       <description>Hello World! I&amp;rsquo;m Prakyath Kantharaju, a tech-savvy, robot-loving, code-crunching Ph.D. holder who&amp;rsquo;s all about making machines smarter and life easier. When I&amp;rsquo;m not busy fine-tuning large-scale ML systems or playing with advanced robotics, you can find me diving deep into the realms of machine learning libraries, cloud technologies, and databases.
 My journey in the tech universe started at the University of Illinois at Chicago, where I powered through to a Ph.</description>
     </item>
     <item>
-      <title>My Test Post</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>This is a test post to demonstrate creating a new post in Hugo.</description>
-    </item>
-    <item>
       <title>Drake setup and introduction to IK using pseudo inverse and quadratic programming</title>
-      <link>http://localhost:1313/hacking_robotics/drake_introduction/</link>
+      <link>https://prakyathk.com/hacking_robotics/drake_introduction/</link>
       <pubDate>Sun, 15 Oct 2023 18:49:58 -0500</pubDate>
-      <guid>http://localhost:1313/hacking_robotics/drake_introduction/</guid>
+      <guid>https://prakyathk.com/hacking_robotics/drake_introduction/</guid>
       <description>Introduction to Drake Drake is a C++ toolbox started by Russ Tedrake and his group at MIT. It is a collection of libraries for efficient rigid body dynamics computations and constraint-based multibody dynamics, mainly used for manipulation planning and control.
 Setup for manipulation In this project I am borrowing most of the work from the Drake manipulation repository, which is used to teach the manipulators course at MIT. Here are the course documents: manipulation and Manipulation youtube playlist from last semester.</description>
     </item>
     <item>
-      <title>Deep Dive: PyTorch vmap vs JAX vmap - Part 1</title>
-      <link>http://localhost:1313/deep_dive/torch_vmap_comparision/</link>
+      <title>AI Weekly Newsletter (New open models) - Sep 27</title>
+      <link>https://prakyathk.com/weekly_newsletter/sep_27/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/deep_dive/torch_vmap_comparision/</guid>
+      <guid>https://prakyathk.com/weekly_newsletter/sep_27/</guid>
+      <description>Highlights: OpenAI experiences significant leadership changes, Meta releases Llama 3 models with impressive benchmarks, Google unveils updated Gemini models with performance improvements and price reductions, AlphaChip transforms computer chip design using AI</description>
+    </item>
+    <item>
+      <title>Deep Dive: PyTorch vmap vs JAX vmap - Part 1</title>
+      <link>https://prakyathk.com/deep_dive/torch_vmap_comparision/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://prakyathk.com/deep_dive/torch_vmap_comparision/</guid>
       <description>Comparing the memory and speed of PyTorch vmap and JAX vmap for dot product and attention calculation </description>
     </item>
     <item>
       <title>Weekly Newsletter: Sep 20th</title>
-      <link>http://localhost:1313/weekly_newsletter/sept-20/</link>
+      <link>https://prakyathk.com/weekly_newsletter/sept-20/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/weekly_newsletter/sept-20/</guid>
+      <guid>https://prakyathk.com/weekly_newsletter/sept-20/</guid>
       <description>Weekly update on AI/ML - Sept 13th - Sept 20th</description>
     </item>
   </channel>

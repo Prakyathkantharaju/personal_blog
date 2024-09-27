@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Hello! 
     subtitle: "I am a robotictist, programmer, data scientist, LLM engineer and a coffee lover. I have a PhD in Robotics and AI. My past experience spans across robotics, AI, and now LLMs and multi-modal models."
-    imageUrl: portfolio_2.webp
+    # imageUrl: portfolio_2.webp
     imageUrl: IMG_0359_1.jpg
     imageWidth: 480
     imageHeight: 480
@@ -151,6 +151,12 @@ markup:
     guessSyntax: true
     # lineNos: true
     style: monokai
+
+defaultContentLanguage: "en"
+languages:
+  en:
+    languageCode: "en-us"
+    weight: 1
 
 
 
