@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>about on Pk blog</title>
-    <link>https://prakyathk.com/tags/about/</link>
-    <description>Recent content in about on Pk blog</description>
+    <title>About on Pk blog</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on Pk blog</description>
     <image>
       <title>Pk blog</title>
-      <url>https://prakyathk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://prakyathk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://prakyathk.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://prakyathk.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://prakyathk.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hello World! I&amp;rsquo;m Prakyath Kantharaju, a tech-savvy, robot-loving, code-crunching Ph.D. holder who&amp;rsquo;s all about making machines smarter and life easier. When I&amp;rsquo;m not busy fine-tuning large-scale ML systems or playing with advanced robotics, you can find me diving deep into the realms of machine learning libraries, cloud technologies, and databases.
 My journey in the tech universe started at the University of Illinois at Chicago, where I powered through to a Ph.</description>
     </item>

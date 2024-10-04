@@ -18,12 +18,12 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -56,9 +56,9 @@ editPost:
 
 # OpenAI News
 
-## Canvas: A New Collaboration Interface [Read more here](https://openai.com/index/introducing-canvas)
+## Canvas: A New Collaboration Interface 
 OpenAI introduces Canvas, an advanced interface for working with ChatGPT on projects that require more than a simple chat. Canvas supports detailed editing, context-based suggestions, and offers tools for writing and coding enhancements. Initially available to ChatGPT Plus, Team, Enterprise, and Edu users, Canvas will eventually be accessible to all users. It helps improve project collaboration by enabling inline editing, feedback, and version control. Canvas launches automatically in applicable scenarios or via the prompt "use canvas."
-
+[Read more here](https://openai.com/index/introducing-canvas)
 ![Canvas](/oct-4/Canvas_Hero.webp)
 
 Canvas includes various shortcuts:
@@ -67,8 +67,9 @@ Canvas includes various shortcuts:
 
 Canvas is trained to trigger contextually for different tasks, distinguishing between writing and coding needs. Model evaluations show an 83% accuracy rate for correct canvas usage, outperforming earlier baselines. As Canvas develops, the focus remains on improving collaboration and user interface efficiency.
 
-## Funding Update [Read more here](https://openai.com/index/scale-the-benefits-of-ai/)
+## Funding Update 
 OpenAI secured $6.6 billion in funding at a $157 billion valuation, boosting its frontier AI research, compute capacity, and tool development. This expansion supports OpenAI’s mission to make advanced intelligence widely accessible while working with global partners to shape AI's positive future impact.
+[Read more here](https://openai.com/index/scale-the-benefits-of-ai/)
 
 ---
 
@@ -83,13 +84,19 @@ Meta has introduced Movie Gen, a set of foundational models capable of generatin
 # Google Hires OpenAI's Sora Founder
 Google DeepMind has recruited the lead scientist behind OpenAI's yet-to-be-released Sora video generation model, known for his work on InstructPix2Pix. In a tweet, Demis Hassabis emphasized the goal of building a "world model." [Tweet link](https://x.com/demishassabis/status/1841984103312208037).
 
-![Sora](/oct-4/Pasted%20image%2020241004094511.png)
+
+![Sora](/oct-4/Pasted%20image%2020241004093735.png)
+<!-- ![Sora](/oct-4/Pasted%20image%2020241004094511.png) -->
 ---
 
 # NVIDIA's New Vision-Language Models: NVLM 1.0
 NVIDIA introduces NVLM 1.0, a family of multimodal large language models that perform at the frontier of vision-language tasks, rivaling models like GPT-4o. NVLM 1.0 uses a hybrid architecture that blends the strengths of decoder-only models and cross-attention-based approaches, resulting in state-of-the-art reasoning capabilities across multiple domains, including OCR and multimodal math. By integrating both text and multimodal datasets, NVLM enhances text-only performance while offering production-grade multimodality. Model weights and code will be released for open research. [More details here](https://nvlm-project.github.io/).
 
-![NVLM](/oct-4/Pasted%20image%2020241004094601.png)
+
+
+### VLM architectures tested in the paper
+Please refer to the paper for more details on the performance of each architecture, [paper link here](https://nvlm-project.github.io/).
+![NVLM 3](/oct-4/Pasted%20image%2020241004094511.png)
 
 ### Benchmarking
 

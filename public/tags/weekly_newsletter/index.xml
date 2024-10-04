@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>weekly_newsletter on Pk blog</title>
-    <link>https://prakyathk.com/tags/weekly_newsletter/</link>
-    <description>Recent content in weekly_newsletter on Pk blog</description>
+    <title>Weekly_newsletter on Pk blog</title>
+    <link>http://localhost:1313/tags/weekly_newsletter/</link>
+    <description>Recent content in Weekly_newsletter on Pk blog</description>
     <image>
       <title>Pk blog</title>
-      <url>https://prakyathk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://prakyathk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://prakyathk.com/tags/weekly_newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/weekly_newsletter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Weekly Newsletter (New open models) - Sep 27</title>
-      <link>https://prakyathk.com/weekly_newsletter/sep_27/</link>
+      <link>http://localhost:1313/weekly_newsletter/sep_27/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://prakyathk.com/weekly_newsletter/sep_27/</guid>
+      <guid>http://localhost:1313/weekly_newsletter/sep_27/</guid>
       <description>Highlights: OpenAI experiences significant leadership changes, Meta releases Llama 3 models with impressive benchmarks, Google unveils updated Gemini models with performance improvements and price reductions, AlphaChip transforms computer chip design using AI</description>
     </item>
   </channel>
