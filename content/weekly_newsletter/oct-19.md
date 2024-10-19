@@ -52,8 +52,8 @@ Key findings include:
 - W8A8 schemes (both INT and FP) achieved ~2x model size compression and 1.8x performance speedup in multi-request scenarios.
 - W4A16-INT provided ~3.5x model size compression and 2.4x speedup for single-stream scenarios, making it ideal for latency-critical applications.
 - Larger models (70B, 405B) showed negligible performance degradation post-quantization as shown in the following figures:
-![images_1](/static/oct-19/CHART-LLM-Compression-Evals-ArenaHard.webp)
-![images_2](/static/oct-19/CHART-LLM-Compression-Evals-HumanEval.webp)
+![images_1](/oct-19/CHART-LLM-Compression-Evals-ArenaHard.webp)
+![images_2](/oct-19/CHART-LLM-Compression-Evals-HumanEval.webp)
   
 - Smaller models (8B) experienced slight variability but maintained core semantic meaning and structural coherence as shown in the hard benchmarks above.
 
@@ -102,7 +102,7 @@ Nvidia has also provided a model conversion to the HuggingFace Transformers form
 
 This release underscores Nvidia's commitment to pushing the boundaries of LLM performance and usability, potentially reshaping the landscape of AI-powered natural language understanding and generation.
 
-![images](/static/oct-19/llm-nvidia-evals.png)
+![images](/oct-19/llm-nvidia-evals.png)
 [link to the article](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct)
 
 ## 4. Ministral Models: Advancements in Edge Computing from Mistral AI
@@ -117,8 +117,8 @@ These models are designed to be versatile, suitable for various applications fro
 
 The release of les Ministraux on the first anniversary of Mistral 7B's debut underscores the rapid pace of innovation in edge AI, potentially democratizing access to powerful language models for a wide range of devices and applications.
 
-![images](/static/oct-19/instruct_plot_8b_with_mistral_logo.png)
-![images](/static/oct-19/instruct_table_with_gemma.png)
+![images](/oct-19/instruct_plot_8b_with_mistral_logo.png)
+![images](/oct-19/instruct_table_with_gemma.png)
 [link to the article](https://mistral.ai/news/ministraux/)
 
 ## 5. Spirit LM: Bridging Text and Speech in Language Models
@@ -137,5 +137,5 @@ Spirit LM demonstrates both the semantic prowess of text models and the expressi
 This innovation opens up new possibilities for more natural and expressive human-computer interactions, potentially revolutionizing applications in voice assistants, accessibility technologies, and multimedia content creation.
 
 
-![images](/static/oct-19/spiritlm_overview.png)
+![images](/oct-19/spiritlm_overview.png)
 [link to the article](https://speechbot.github.io/spiritlm/)
