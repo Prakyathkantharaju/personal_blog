@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/first/</loc>
+    <lastmod>2024-10-11T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-03T12:04:00-06:00</lastmod>
+    <lastmod>2024-10-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weekly_newsletter/oct-11/</loc>
+    <lastmod>2024-10-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weekly_newsletter/</loc>
+    <lastmod>2024-10-11T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/project/</loc>
     <lastmod>2024-03-03T12:04:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-03-03T12:04:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-03T12:04:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/testing/</loc>
@@ -71,6 +80,9 @@
     <loc>http://localhost:1313/tags/jax/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/weekly_newsletter/oct-19/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/oct-4/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
@@ -87,9 +99,6 @@
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/weekly_newsletter/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/weekly_newsletter/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/weekly-newsletter/</loc>

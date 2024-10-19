@@ -10,14 +10,21 @@
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Weekly Newsletter - Oct 11</title>
+      <link>http://localhost:1313/weekly_newsletter/oct-11/</link>
+      <pubDate>Fri, 11 Oct 2024 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/weekly_newsletter/oct-11/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
       <title>My 1st post</title>
-      <link>http://localhost:1313/deep_dive/torch_vmap_comparision/</link>
+      <link>http://localhost:1313/weekly_newsletter/oct-19/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/deep_dive/torch_vmap_comparision/</guid>
+      <guid>http://localhost:1313/weekly_newsletter/oct-19/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
