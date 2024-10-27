@@ -20,12 +20,5 @@
       <guid>http://localhost:1313/weekly_newsletter/oct-11/</guid>
       <description>Desc Text.</description>
     </item>
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/weekly_newsletter/oct-19/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/weekly_newsletter/oct-19/</guid>
-      <description>Desc Text.</description>
-    </item>
   </channel>
 </rss>

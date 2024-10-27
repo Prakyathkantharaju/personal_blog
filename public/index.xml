@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2024 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Newsletter - October 26</title>
+      <link>http://localhost:1313/weekly_newsletter/oct-26/</link>
+      <pubDate>Sat, 26 Oct 2024 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/weekly_newsletter/oct-26/</guid>
+      <description>Desc Text.</description>
+    </item>
     <item>
       <title>Weekly Newsletter - October 19</title>
       <link>http://localhost:1313/weekly_newsletter/oct-19/</link>
@@ -32,10 +39,15 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 03 Mar 2024 12:04:00 -0600</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>Here are some of the projects I&amp;rsquo;ve worked on:
-1. Insura-tune Anything ( private project for CCC is) Description: An internal enterprise application designed for loading insurance documentation and images from structured and unstructured databases (SQL, MongoDB, sqlite) for fine-tuning using LORA and RLHF.
-2. Fine-tune Anything Description: Developed a quantization and fine-tuning library with auto-loading, quantize model, and fine-tuning for personal data and RLHF. Try it here
-3. Lead the Way Description: Created a distributed knowledge-sharing system for mobile autonomous robot navigation using graph-neural networks and ROS.</description>
+      <description>&lt;p&gt;Here are some of the projects I&amp;rsquo;ve worked on:&lt;/p&gt;
+&lt;h3 id=&#34;1-insura-tune-anything--private-project-for-ccc-is&#34;&gt;1. Insura-tune Anything ( private project for CCC is)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: An internal enterprise application designed for loading insurance documentation and images from structured and unstructured databases (SQL, MongoDB, sqlite) for fine-tuning using LORA and RLHF.&lt;/p&gt;
+&lt;h3 id=&#34;2-fine-tune-anything&#34;&gt;2. Fine-tune Anything&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: Developed a quantization and fine-tuning library with auto-loading, quantize model, and fine-tuning for personal data and RLHF.
+&lt;a href=&#34;https://github.com/prakyathkantharaju/Fine_tune_Anything&#34;&gt;&lt;strong&gt;Try it here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-lead-the-way&#34;&gt;3. Lead the Way&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: Created a distributed knowledge-sharing system for mobile autonomous robot navigation using graph-neural networks and ROS.
+&lt;a href=&#34;https://github.com/Prakyathkantharaju/Lead-the-way&#34;&gt;&lt;strong&gt;Try it here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing</title>
@@ -49,8 +61,8 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hello World! I&amp;rsquo;m Prakyath Kantharaju, a tech-savvy, robot-loving, code-crunching Ph.D. holder who&amp;rsquo;s all about making machines smarter and life easier. When I&amp;rsquo;m not busy fine-tuning large-scale ML systems or playing with advanced robotics, you can find me diving deep into the realms of machine learning libraries, cloud technologies, and databases.
-My journey in the tech universe started at the University of Illinois at Chicago, where I powered through to a Ph.</description>
+      <description>&lt;p&gt;Hello World! I&amp;rsquo;m Prakyath Kantharaju, a tech-savvy, robot-loving, code-crunching Ph.D. holder who&amp;rsquo;s all about making machines smarter and life easier. When I&amp;rsquo;m not busy fine-tuning large-scale ML systems or playing with advanced robotics, you can find me diving deep into the realms of machine learning libraries, cloud technologies, and databases.&lt;/p&gt;
+&lt;p&gt;My journey in the tech universe started at the University of Illinois at Chicago, where I powered through to a Ph.D. in Robotics. I specialize in making wearable robots more personal - because who says robots can&amp;rsquo;t have a personal touch?&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Test Post</title>
@@ -64,8 +76,12 @@ My journey in the tech universe started at the University of Illinois at Chicago
       <link>http://localhost:1313/hacking_robotics/drake_introduction/</link>
       <pubDate>Sun, 15 Oct 2023 18:49:58 -0500</pubDate>
       <guid>http://localhost:1313/hacking_robotics/drake_introduction/</guid>
-      <description>Introduction to Drake Drake is a C++ toolbox started by Russ Tedrake and his group at MIT. It is a collection of libraries for efficient rigid body dynamics computations and constraint-based multibody dynamics, mainly used for manipulation planning and control.
-Setup for manipulation In this project I am borrowing most of the work from the Drake manipulation repository, which is used to teach the manipulators course at MIT. Here are the course documents: manipulation and Manipulation youtube playlist from last semester.</description>
+      <description>&lt;h1 id=&#34;introduction-to-drake&#34;&gt;Introduction to Drake&lt;/h1&gt;
+&lt;p&gt;Drake is a C++ toolbox started by Russ Tedrake and his group at MIT.
+It is a collection of libraries for efficient rigid body dynamics computations and constraint-based multibody dynamics, mainly used for manipulation planning and control.&lt;/p&gt;
+&lt;h1 id=&#34;setup-for-manipulation&#34;&gt;Setup for manipulation&lt;/h1&gt;
+&lt;p&gt;In this project I am borrowing most of the work from the &lt;a href=&#34;https://github.com/RussTedrake/manipulation&#34;&gt;Drake manipulation repository&lt;/a&gt;, which is used to teach the manipulators course at MIT.
+Here are the course documents: &lt;a href=&#34;http://manipulation.csail.mit.edu/&#34;&gt;manipulation&lt;/a&gt; and &lt;a href=&#34;https://youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69&amp;si=xwgcVbpWYG-cGHDa&#34;&gt;Manipulation youtube playlist from last semester&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI Weekly Newsletter (New open models) - Sep 27</title>

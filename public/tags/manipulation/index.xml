@@ -18,8 +18,12 @@
       <link>http://localhost:1313/hacking_robotics/drake_introduction/</link>
       <pubDate>Sun, 15 Oct 2023 18:49:58 -0500</pubDate>
       <guid>http://localhost:1313/hacking_robotics/drake_introduction/</guid>
-      <description>Introduction to Drake Drake is a C++ toolbox started by Russ Tedrake and his group at MIT. It is a collection of libraries for efficient rigid body dynamics computations and constraint-based multibody dynamics, mainly used for manipulation planning and control.
-Setup for manipulation In this project I am borrowing most of the work from the Drake manipulation repository, which is used to teach the manipulators course at MIT. Here are the course documents: manipulation and Manipulation youtube playlist from last semester.</description>
+      <description>&lt;h1 id=&#34;introduction-to-drake&#34;&gt;Introduction to Drake&lt;/h1&gt;
+&lt;p&gt;Drake is a C++ toolbox started by Russ Tedrake and his group at MIT.
+It is a collection of libraries for efficient rigid body dynamics computations and constraint-based multibody dynamics, mainly used for manipulation planning and control.&lt;/p&gt;
+&lt;h1 id=&#34;setup-for-manipulation&#34;&gt;Setup for manipulation&lt;/h1&gt;
+&lt;p&gt;In this project I am borrowing most of the work from the &lt;a href=&#34;https://github.com/RussTedrake/manipulation&#34;&gt;Drake manipulation repository&lt;/a&gt;, which is used to teach the manipulators course at MIT.
+Here are the course documents: &lt;a href=&#34;http://manipulation.csail.mit.edu/&#34;&gt;manipulation&lt;/a&gt; and &lt;a href=&#34;https://youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69&amp;si=xwgcVbpWYG-cGHDa&#34;&gt;Manipulation youtube playlist from last semester&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

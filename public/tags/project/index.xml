@@ -18,10 +18,15 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 03 Mar 2024 12:04:00 -0600</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>Here are some of the projects I&amp;rsquo;ve worked on:
-1. Insura-tune Anything ( private project for CCC is) Description: An internal enterprise application designed for loading insurance documentation and images from structured and unstructured databases (SQL, MongoDB, sqlite) for fine-tuning using LORA and RLHF.
-2. Fine-tune Anything Description: Developed a quantization and fine-tuning library with auto-loading, quantize model, and fine-tuning for personal data and RLHF. Try it here
-3. Lead the Way Description: Created a distributed knowledge-sharing system for mobile autonomous robot navigation using graph-neural networks and ROS.</description>
+      <description>&lt;p&gt;Here are some of the projects I&amp;rsquo;ve worked on:&lt;/p&gt;
+&lt;h3 id=&#34;1-insura-tune-anything--private-project-for-ccc-is&#34;&gt;1. Insura-tune Anything ( private project for CCC is)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: An internal enterprise application designed for loading insurance documentation and images from structured and unstructured databases (SQL, MongoDB, sqlite) for fine-tuning using LORA and RLHF.&lt;/p&gt;
+&lt;h3 id=&#34;2-fine-tune-anything&#34;&gt;2. Fine-tune Anything&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: Developed a quantization and fine-tuning library with auto-loading, quantize model, and fine-tuning for personal data and RLHF.
+&lt;a href=&#34;https://github.com/prakyathkantharaju/Fine_tune_Anything&#34;&gt;&lt;strong&gt;Try it here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-lead-the-way&#34;&gt;3. Lead the Way&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: Created a distributed knowledge-sharing system for mobile autonomous robot navigation using graph-neural networks and ROS.
+&lt;a href=&#34;https://github.com/Prakyathkantharaju/Lead-the-way&#34;&gt;&lt;strong&gt;Try it here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
